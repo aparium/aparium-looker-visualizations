@@ -1,0 +1,11 @@
+{
+  "name": "Image Scatter Plot",
+  "id": "image_scatter_plot",
+  "description": "A scatter chart with custom images as points",
+  "author": "Your Name",
+  "resources": {
+    "js": ["https://cdn.jsdelivr.net/npm/chart.js"]
+  },
+  "script": "script.js",
+  "style": "style.css"
+}
