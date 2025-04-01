@@ -1,6 +1,6 @@
 {
   "name": "Aparium STAR Graph",
-  "logoUrl": "https://storage.googleapis.com/aparium-looker-visualizations/Gallery/aparium_icon.png",
+  "logoUrl": "https://aparium.github.io/aparium-looker-visualizations/Gallery/aparium_icon.png",
   "organizationUrl": "https://aparium.com",
   "privacyPolicyUrl": "https://www.aparium.com/privacy",
   "description": "Aparium CoSTAR Graph by Hotel",
@@ -11,12 +11,12 @@
       "id": "image_scatter_plot",
       "name": "Aparium STAR Graph",
       "description": "Aparium CoSTAR Graph by Hotel",
-      "iconUrl": "https://storage.googleapis.com/aparium-looker-visualizations/Gallery/aparium_icon.png",
+      "iconUrl": "https://aparium.github.io/aparium-looker-visualizations/Gallery/aparium_icon.png",
       "resources": {
         "js": ["https://cdn.jsdelivr.net/npm/chart.js"]
       },
-      "script": "https://storage.googleapis.com/aparium-looker-visualizations/StarPerformanceGraph/script.js",
-      "style": "https://storage.googleapis.com/aparium-looker-visualizations/StarPerformanceGraph/style.css"
+      "script": "https://aparium.github.io/aparium-looker-visualizations/StarPerformanceGraph/script.js",
+      "style": "https://aparium.github.io/aparium-looker-visualizations/StarPerformanceGraph/style.css"
     }
   ]
 }
