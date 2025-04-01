@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id": "main",
+      "label": "Main Data",
+      "elements": [
+        {
+          "type": "NUMBER",
+          "id": "x",
+          "label": "X Axis"
+        },
+        {
+          "type": "NUMBER",
+          "id": "y",
+          "label": "Y Axis"
+        },
+        {
+          "type": "TEXT",
+          "id": "image",
+          "label": "Image URL"
+        }
+      ]
+    }
+  ],
+  "style": [],
+  "features": {
+    "enableComparisonDateRange": false
+  }
+}
