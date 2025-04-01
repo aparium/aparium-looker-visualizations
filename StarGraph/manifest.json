@@ -13,9 +13,9 @@
       "description": "Aparium CoSTAR Graph by Hotel",
       "iconUrl": "https://aparium.github.io/aparium-looker-visualizations/Gallery/aparium_icon.png",
       "resource": {
-        "js": "https://aparium.github.io/aparium-looker-visualizations/StarPerformanceGraph/script.js",
-        "css": "https://aparium.github.io/aparium-looker-visualizations/StarPerformanceGraph/style.css",
-        "config": "https://aparium.github.io/aparium-looker-visualizations/StarPerformanceGraph/config.json"
+        "js": "https://aparium.github.io/aparium-looker-visualizations/StarGraph/script.js",
+        "css": "https://aparium.github.io/aparium-looker-visualizations/StarGraph/style.css",
+        "config": "https://aparium.github.io/aparium-looker-visualizations/StarGraph/config.json"
       }
     }
   ]
