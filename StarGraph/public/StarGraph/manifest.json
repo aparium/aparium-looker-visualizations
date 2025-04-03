@@ -1,0 +1,22 @@
+{
+  "name": "Aparium Visualizations",
+  "logoUrl": "https://viz-aparium-hotel-group.web.app/StarGraph/aparium_logo.png",
+  "organizationUrl": "https://aparium.com",
+  "privacyPolicyUrl": "https://www.aparium.com/privacy",
+  "description": "Custom image scatter plot",
+  "author": "Gary Stringham, Aparium Hotel Group",
+  "devMode": true,
+  "components": [
+    {
+      "id": "image_scatter_plot",
+      "name": "Aparium STAR Graph",
+      "description": "Aparium CoSTAR Graph by Hotel",
+      "iconUrl": "https://viz-aparium-hotel-group.web.app/StarGraph/aparium_icon.png",
+      "resource": {
+        "js": "https://viz-aparium-hotel-group.web.app/StarGraph/script.js",
+        "css": "https://viz-aparium-hotel-group.web.app/StarGraph/style.css",
+        "config": "https://viz-aparium-hotel-group.web.app/StarGraph/config.json"
+      }
+    }
+  ]
+}
